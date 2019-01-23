@@ -1,6 +1,7 @@
 # Chat_Vue_Laravel
 
 - composer install
+- npm install
 - php artisan key:generate
 - php artisan cache:clear
 - make a database and connect it to the project
