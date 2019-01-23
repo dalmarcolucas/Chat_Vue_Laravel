@@ -5,5 +5,4 @@
 - php artisan cache:clear
 - make a database and connect it to the project
 - php artisan migrate
-
-config .env Pusher App Keys section
+- config .env Pusher App Keys section
